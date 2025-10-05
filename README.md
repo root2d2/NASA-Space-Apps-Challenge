@@ -63,5 +63,5 @@ streamlit run app.py
 ---
 
 ## Contact
-Project by the ProjectAeroMed team — contact: your-email@example.com
+Project by the ProjectAeroMed team — contact: projectaeromed@gmail.com
 Generated/updated: 2025-10-05T09:37:53.519973 UTC
